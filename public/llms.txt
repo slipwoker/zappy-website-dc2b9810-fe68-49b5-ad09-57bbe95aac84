@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-dc2b9810.zappy5.app
+https://example.com
 מיכאל הינדימן מעניק ייעוץ עסקי ליזמי טכנולוגיה בישראל שרוצים לצמוח חכם ומהר. קבל אסטרטגיה מנצחת שתוביל את העסק שלך קדימה. התחל היום.
 
 ### שירותים
-https://-dc2b9810.zappy5.app/services
+https://example.com/services
 גלה את מגוון שירותי הייעוץ האסטרטגי לבעלי עסקים קטנים וחברות טכנולוגיה. כל שירות מותאם אישית לצרכי העסק שלך כדי למקסם תוצאות ורווחיות.
 
 ### אודות
-https://-dc2b9810.zappy5.app/about
+https://example.com/about
 הכר את מיכאל הינדימן, מנטור עסקי מוביל לחברות טכנולוגיה ויזמים בישראל. ניסיון עשיר, גישה אישית ותוצאות מוכחות שהופכים חזון לעסק משגשג.
 
 ### צור קשר
-https://-dc2b9810.zappy5.app/contact
+https://example.com/contact
 מוכן לקחת את העסק שלך לרמה הבאה? צור קשר עם מיכאל הינדימן עוד היום ותקבל ייעוץ עסקי ראשוני שיפתח לך דלתות חדשות. אל תחכה, הזדמנות לא מחכה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-dc2b9810.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-dc2b9810.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-dc2b9810.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-dc2b9810.zappy5.app/contact
-- Endpoint: https://-dc2b9810.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-dc2b9810.zappy5.app/sitemap.xml
-- Robots: https://-dc2b9810.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-dc2b9810.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
