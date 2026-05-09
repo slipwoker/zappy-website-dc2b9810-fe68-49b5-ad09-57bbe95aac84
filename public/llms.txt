@@ -41,7 +41,7 @@ Information about WCAG compliance and accessibility features.
 ## How to Contact Us
 
 - Email: michaelfixman360@gmail.com
-- Address: קרית ביאליק, ישראל
+- Address: קרית ביאליק, הנרקסים 27, 2721622, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
