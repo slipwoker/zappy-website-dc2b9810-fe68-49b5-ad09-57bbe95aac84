@@ -1,0 +1,78 @@
+# מיכאל הינדימן — Generative Engine Optimization Map
+
+> https://manage.wix.com/account/sites/33a609f8-bbe5-4ccc-ad1e-84b986f109e6?ref=chat_domain
+
+---
+
+## Pages
+
+### בית
+https://-dc2b9810.zappy5.app
+מיכאל הינדימן מעניק ייעוץ עסקי ליזמי טכנולוגיה בישראל שרוצים לצמוח חכם ומהר. קבל אסטרטגיה מנצחת שתוביל את העסק שלך קדימה. התחל היום.
+
+### שירותים
+https://-dc2b9810.zappy5.app/services
+גלה את מגוון שירותי הייעוץ האסטרטגי לבעלי עסקים קטנים וחברות טכנולוגיה. כל שירות מותאם אישית לצרכי העסק שלך כדי למקסם תוצאות ורווחיות.
+
+### אודות
+https://-dc2b9810.zappy5.app/about
+הכר את מיכאל הינדימן, מנטור עסקי מוביל לחברות טכנולוגיה ויזמים בישראל. ניסיון עשיר, גישה אישית ותוצאות מוכחות שהופכים חזון לעסק משגשג.
+
+### צור קשר
+https://-dc2b9810.zappy5.app/contact
+מוכן לקחת את העסק שלך לרמה הבאה? צור קשר עם מיכאל הינדימן עוד היום ותקבל ייעוץ עסקי ראשוני שיפתח לך דלתות חדשות. אל תחכה, הזדמנות לא מחכה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-dc2b9810.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-dc2b9810.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-dc2b9810.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-dc2b9810.zappy5.app/contact
+- Endpoint: https://-dc2b9810.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מיכאל הינדימן
+https://manage.wix.com/account/sites/33a609f8-bbe5-4ccc-ad1e-84b986f109e6?ref=chat_domain
+
+## Target Audience
+- יזמי טכנולוגיה
+- בעלי עסקים קטנים
+- מנהלי חברות גדולות
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-dc2b9810.zappy5.app/sitemap.xml
+- Robots: https://-dc2b9810.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-dc2b9810.zappy5.app/llms-full.txt
