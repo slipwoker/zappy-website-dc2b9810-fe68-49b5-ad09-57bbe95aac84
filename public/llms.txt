@@ -40,7 +40,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: michaelfixman360@gmail.com
+- Address: קרית ביאליק, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
